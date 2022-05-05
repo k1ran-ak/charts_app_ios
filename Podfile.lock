@@ -1,0 +1,39 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Charts (4.0.2):
+    - Charts/Core (= 4.0.2)
+  - Charts/Core (4.0.2):
+    - SwiftAlgorithms (~> 1.0)
+  - CryptoSwift (1.4.3)
+  - Starscream (3.1.1)
+  - SwiftAlgorithms (1.0.0)
+  - WalletConnectSwift (1.6.0):
+    - CryptoSwift (~> 1.4)
+    - Starscream (~> 3.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.9.1)
+  - Charts
+  - Starscream
+  - WalletConnectSwift
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Charts
+    - CryptoSwift
+    - Starscream
+    - SwiftAlgorithms
+    - WalletConnectSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Charts: cfa4e911e6dc289582c2fe011a0e87c03d96727f
+  CryptoSwift: a0799ee936271bd2253a006f1e4523df21845000
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftAlgorithms: 38dda4731d19027fdeee1125f973111bf3386b53
+  WalletConnectSwift: 1fbff8f5315bd8d41596773ca1b384aa873b6824
+
+PODFILE CHECKSUM: 7ca8a41099903453f6a5938ffa51bb22dda2b358
+
+COCOAPODS: 1.11.3
